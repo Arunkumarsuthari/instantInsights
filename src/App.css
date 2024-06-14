@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f0f2f5;
+  min-height: 100vh;
+}
